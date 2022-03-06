@@ -1,0 +1,7 @@
+# robots.txt generated at https://www.bmcx.com
+User-agent: *
+Disallow: 
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Sitemap: https://h-e-l-l-ow-o-r-l-d.github.io/sitemap.xml
